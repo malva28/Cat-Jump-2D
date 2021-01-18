@@ -1,0 +1,4 @@
+# .gitignore
+/codigo/.idea/
+codigo/__pycache__/
+codigo/models/__pycache__/
